@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Description: StartApp
  * date: 2020/3/29 21:10
- * author: 朱忠涛
+ * author: zzt
  * version: 1.0
  */
 @SpringBootApplication
